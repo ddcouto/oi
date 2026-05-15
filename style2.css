@@ -91,3 +91,16 @@ footer p {
     color: #d9d9d9;
     font-size: 18px;
 }
+
+.logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.github-logo {
+    width: 90px;
+}
+}
